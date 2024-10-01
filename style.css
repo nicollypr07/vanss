@@ -1,0 +1,23 @@
+body{
+   background-color: red;
+}
+h1{text-align: center;
+}
+h1{border-color: rgb(140, 166, 168);
+   border-width: 5px;
+   border-style: double;
+}
+.parte_nica{text-align: center;
+}
+.parte_nica{border-color: rgb(210, 177, 226);
+            border-width: 5px;
+            border-style: double;
+}
+h2{border-color: rgb(158, 218, 166);
+   border-width: 5px;
+   border-style: double;
+}
+.parte_nica{border-color: crimson;
+            border-width: 6px;
+            border-style: groove;
+        }
